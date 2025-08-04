@@ -7,7 +7,7 @@
 
 <h1 style="text-align:center; color:dodgerblue;" > 🏥 Lister Hospital Navigation App</h1>
 
-<h2 style="color:grey;"> 📌 Introduction</h2>
+<h2 style="color:grey;">  Introduction</h2>
 
 <p style="color:grey;">This is my first DevOps project, inspired by a personal experience and my ongoing role at <a href="https://www.enherts-tr.nhs.uk/hospitals/lister/"target="_blank"> Lister Hospital </a>. <br> <br> The idea was born from a moment when I visited the Emergency Department as a patient. After my consultation, I found myself lost in the vast hospital building, unsure of how to find the exit. It was late, and there was no one around to assist.</p>
 
