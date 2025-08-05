@@ -11,7 +11,7 @@
 
 <p style="color:grey;">This is my first DevOps project, inspired by a personal experience and my ongoing role at <a href="https://www.enherts-tr.nhs.uk/hospitals/lister/"target="_blank"> Lister Hospital </a>. <br> <br> The idea was born from a moment when I visited the Emergency Department as a patient. After my consultation, I found myself lost in the vast hospital building, unsure of how to find the exit. It was late, and there was no one around to assist.</p>
 
-<p style="color:grey;">Now working at <a href="https://www.enherts-tr.nhs.uk/hospitals/lister/"target="_blank">Lister Hospital,</a> I frequently meet patients and visitors who are equally disoriented, lost in the corridors, confused about lifts, or unsure which direction to take. Seeing this daily sparked an idea: <b><q style=color:dodgerblue >  What if navigating the hospital could be as easy as scanning a code and being guided straight to your destination?</q></b></p>
+<p style="color:grey;">Now working at <a href="https://www.enherts-tr.nhs.uk/hospitals/lister/"target="_blank">Lister Hospital,</a> I frequently meet patients, families, new staffs, applicants and visitors who are equally disoriented, lost in the corridors, confused about lifts, or unsure which direction to take. Seeing this daily sparked an idea: <b><q style=color:dodgerblue >  What if navigating the hospital could be as easy as scanning a code and being guided straight to your destination?</q></b></p>
 
 <h2 style="color:grey;">🛠 Project Features</h2>
 
@@ -28,8 +28,9 @@
 Large NHS hospitals like Lister can be overwhelming, especially for first-time visitors, the elderly, or those in distress. Clear signage or having the receptionist just giving you direction by the entrance is often not enough, and staff aren't always readily available to give directions. This can lead to: </p>
 <ul style="color:grey;">
 <li>Missed or delayed appointments.</li>
-<li>Increased anxiety for patients and families</li>
+<li>Redusecreased anxiety for patients and families</li>
 <li>Extra burden on clinical and non-clinical staff</li>
+<li>Help new staffs navigate easily around the hospital</li>
 </ul> 
 <p style="color:grey;">
 This project aims to reduce confusion and enhance the patient experience through a smart, simple, and accessible hospital navigation tool.</p>
