@@ -28,9 +28,9 @@
 Large NHS hospitals like Lister can be overwhelming, especially for first-time visitors, the elderly, or those in distress. Clear signage or having the receptionist just giving you direction by the entrance is often not enough, and staff aren't always readily available to give directions. This can lead to: </p>
 <ul style="color:grey;">
 <li>Missed or delayed appointments.</li>
-<li>Redusecreased anxiety for patients and families</li>
+<li>Increased anxiety for patients and families</li>
 <li>Extra burden on clinical and non-clinical staff</li>
-<li>Help new staffs navigate easily around the hospital</li>
+<li>New staff members struggling to find their way around, and applicants sometimes arrive late to interviews due to difficulty navigating at lister</li>
 </ul> 
 <p style="color:grey;">
 This project aims to reduce confusion and enhance the patient experience through a smart, simple, and accessible hospital navigation tool.</p>
